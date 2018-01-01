@@ -1,9 +1,9 @@
 {
-  "family": "SimpraInventory",
+  "family": "ProtelClearsightApi",
   "containerDefinitions": [
     {
       "image": "protelclearsightapi/clearsight:v_%BUILD_NUMBER%",
-      "name": "SimpraInventory",
+      "name": "ProtelClearsightApi",
       "cpu": 10,
       "memory": 256,
       "essential": true,
