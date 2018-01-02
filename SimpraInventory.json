@@ -1,9 +1,9 @@
 {
-  "family": "ProtelClearsightApi",
+  "family": "simpra",
   "containerDefinitions": [
     {
-      "image": "protelclearsightapi/clearsight:v_%BUILD_NUMBER%",
-      "name": "ProtelClearsightApi",
+      "image": "simprainventory/clearsight:v_%BUILD_NUMBER%",
+      "name": "simprainventory",
       "cpu": 10,
       "memory": 256,
       "essential": true,
@@ -11,6 +11,7 @@
         {
           "containerPort": 5000,
           "hostPort": 80
+          
         }
       ]
     }
