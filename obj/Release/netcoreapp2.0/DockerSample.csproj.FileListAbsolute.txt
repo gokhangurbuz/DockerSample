@@ -1,0 +1,10 @@
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\bin\Release\netcoreapp2.0\DockerSample.deps.json
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\bin\Release\netcoreapp2.0\DockerSample.runtimeconfig.json
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\bin\Release\netcoreapp2.0\DockerSample.runtimeconfig.dev.json
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\bin\Release\netcoreapp2.0\DockerSample.dll
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\bin\Release\netcoreapp2.0\DockerSample.pdb
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\obj\Release\netcoreapp2.0\DockerSample.csproj.CoreCompileInputs.cache
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\obj\Release\netcoreapp2.0\DockerSample.AssemblyInfoInputs.cache
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\obj\Release\netcoreapp2.0\DockerSample.AssemblyInfo.cs
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\obj\Release\netcoreapp2.0\DockerSample.dll
+C:\Users\ggurbuz\source\repos\DockerSample\DockerSample\obj\Release\netcoreapp2.0\DockerSample.pdb
