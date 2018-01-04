@@ -14,5 +14,10 @@
                 }
             ]
         }
-    ]
+    ],
+   "networkMode": null,
+   "cpu": "150",
+   "revision": 1,
+   "status": "ACTIVE",
+   "volumes": []
 }
