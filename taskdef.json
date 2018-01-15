@@ -1,0 +1,17 @@
+﻿{
+  "family": "development",
+  "containerDefinitions": [
+    {
+      "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
+      "name": "dev-container",
+      "cpu": 10,
+      "memory": 400,
+      "essential": true,
+      "portMappings": [
+        {
+          "containerPort": 80
+        }
+      ]
+    }
+  ]
+}
